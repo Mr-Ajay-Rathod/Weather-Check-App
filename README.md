@@ -11,15 +11,12 @@ The Weather App is a web application that fetches real-time weather data from th
 - Location Detection (Optional): Automatically detect and display the weather data of the user's current location.
 - Responsive Design: Ensure a seamless experience across devices.
 
-Live Demo: [Check Today's Weather](https://check-today-weather.netlify.app/) 🌐
+Live Demo: [Check Today's Weather](https://thriving-starship-ab9e4e.netlify.app/) 🌐
 
- Weather App Screenshot 📷
-![Weather App Screenshot](screenshot-check-today-weather-netlify-app-2023-08-02-16_40_09-dgdd)
 
-You can see a live demo of the Weather App [here](https://check-today-weather.netlify.app/).
 
-# Video 🎥
-![Weather App Video](weather.app.mp4)
+You can see a live demo of the Weather App [here](https://thriving-starship-ab9e4e.netlify.app/).
+
 
 # Technologies Used 🛠️
 - Frontend: HTML, CSS, and JavaScript
